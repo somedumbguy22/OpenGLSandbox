@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.16299.0
+Debug|x64|F:\Developer\Rust Projects\OpenGLSandbox\target\rls\debug\build\sdl2-sys-1d7b2d4f0aa741cc\out\build\CMakeFiles\3.11.1\|

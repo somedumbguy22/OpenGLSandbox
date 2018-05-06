@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\Developer\Rust Projects\OpenGLSandbox\target\debug\build\sdl2-sys-1d7b2d4f0aa741cc\out\build\CMakeFiles\d6967aef742b907047669ca0bf040fc2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{200A18EB-2FED-398B-9D18-5A8C4EE8946B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

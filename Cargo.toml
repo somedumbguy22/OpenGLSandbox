@@ -1,6 +1,10 @@
 [package]
 name = "OpenGLSandbox"
 version = "0.1.0"
-authors = ["somedumbguy22 <aakash.sham@gmail.com>"]
+authors = ["Aakash Sham <aakash.sham@gmail.com>"]
 
 [dependencies]
+
+[dependencies.sdl2]
+version = "0.31.0"
+features = ["bundled", "static-link"]
