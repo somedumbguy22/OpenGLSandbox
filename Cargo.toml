@@ -1,0 +1,6 @@
+[package]
+name = "OpenGLSandbox"
+version = "0.1.0"
+authors = ["somedumbguy22 <aakash.sham@gmail.com>"]
+
+[dependencies]
