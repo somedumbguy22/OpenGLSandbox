@@ -1,1 +1,0 @@
-{"rustc":856697738923649634,"features":"[]","target":1966880008849757880,"profile":3026933032369683551,"path":1036222786711178230,"deps":[["sdl2 v0.31.0",8027927684614710556]],"local":[{"MtimeBased":[[1525630314,408920600],".fingerprint\\OpenGLSandbox-4a3b8eb1a25614f9\\dep-bin-OpenGLSandbox-4a3b8eb1a25614f9"]}],"rustflags":["--error-format=json"],"epoch":"Epoch2015"}

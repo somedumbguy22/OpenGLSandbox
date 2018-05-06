@@ -1,6 +1,0 @@
-F:/Developer/Rust Projects/OpenGLSandbox/target/debug/build/sdl2-sys-1d7b2d4f0aa741cc/out/build/CMakeFiles/SDL2-static.dir
-F:/Developer/Rust Projects/OpenGLSandbox/target/debug/build/sdl2-sys-1d7b2d4f0aa741cc/out/build/CMakeFiles/SDL2main.dir
-F:/Developer/Rust Projects/OpenGLSandbox/target/debug/build/sdl2-sys-1d7b2d4f0aa741cc/out/build/CMakeFiles/uninstall.dir
-F:/Developer/Rust Projects/OpenGLSandbox/target/debug/build/sdl2-sys-1d7b2d4f0aa741cc/out/build/CMakeFiles/INSTALL.dir
-F:/Developer/Rust Projects/OpenGLSandbox/target/debug/build/sdl2-sys-1d7b2d4f0aa741cc/out/build/CMakeFiles/ALL_BUILD.dir
-F:/Developer/Rust Projects/OpenGLSandbox/target/debug/build/sdl2-sys-1d7b2d4f0aa741cc/out/build/CMakeFiles/ZERO_CHECK.dir

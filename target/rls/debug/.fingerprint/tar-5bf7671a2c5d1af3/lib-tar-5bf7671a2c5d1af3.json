@@ -1,1 +1,0 @@
-{"rustc":856697738923649634,"features":"[\"default\", \"xattr\"]","target":5827517915097480020,"profile":2479238963835404001,"path":7805944993722424504,"deps":[["filetime v0.2.1",3901239717045012857]],"local":[{"Precalculated":"0.4.15"}],"rustflags":["--error-format=json"],"epoch":"Epoch2015"}
