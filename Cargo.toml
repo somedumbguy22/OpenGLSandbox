@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Aakash Sham <aakash.sham@gmail.com>"]
 
 [dependencies]
+gl = "0.10.0"
 
 [dependencies.sdl2]
 version = "0.31.0"
